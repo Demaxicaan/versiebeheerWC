@@ -26,4 +26,26 @@ a:visited {
 	color:white;
 }
 
+table{
+border=2px solid black;
+margin-top: 7px;
+margin-bottom: 7px;
+}
 
+table td{
+padding: 5px;
+border: 1px solid black;
+}
+
+table th {
+padding: 5px;
+border: 1px solid black;
+}
+
+table th:nth-child(odd) {
+background-color: orange;
+}
+
+table td:nth-child(even){
+background-color: white
+}
