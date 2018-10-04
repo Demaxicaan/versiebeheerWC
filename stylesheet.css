@@ -6,7 +6,7 @@ margin-left:550px;
 
 body{
 background-color:black;
-position:relative;
+
 }
 
 .imagebox {
@@ -26,26 +26,15 @@ a:visited {
 	color:white;
 }
 
-table{
-border=2px solid black;
-margin-top: 7px;
-margin-bottom: 7px;
+
+th {
+	color:orange;
 }
 
-table td{
-padding: 5px;
-border: 1px solid black;
+td {
+	color:orange;
 }
 
-table th {
-padding: 5px;
-border: 1px solid black;
-}
-
-table th:nth-child(odd) {
-background-color: orange;
-}
-
-table td:nth-child(even){
-background-color: white
+h2 {
+	color:orange;
 }
