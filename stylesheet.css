@@ -1,0 +1,29 @@
+h1 {
+color: orange;
+margin-left:550px;
+}
+
+
+body{
+background-color:black;
+position:relative;
+}
+
+.imagebox {
+	margin-left:550px;
+}
+
+
+.text {
+	margin-left:550px;
+	color:white;
+}
+a:link {
+	color:white;
+}
+
+a:visited {
+	color:white;
+}
+
+
